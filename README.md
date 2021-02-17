@@ -1,4 +1,4 @@
-# This is a client server base online dictionary database app that allow multiple clients to query, update, and post to a dictionary server.
+# This is a client-server based online dictionary database app that allow multiple clients to query, update, and post to a dictionary server.
 ## keywords: TCP/IP sockets, Multithreading, Worker Pool Architecture
 
 ### The class diagram of this app 
